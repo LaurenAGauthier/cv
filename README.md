@@ -1,6 +1,6 @@
 # Lauren Gauthier
-**Senior Backend Engineer**
-Reading, UK
+**Senior Backend Engineer** - Reading, UK
+
 [laurenwilliamssoftwareengineer@gmail.com](mailto:laurenwilliamssoftwareengineer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/laurenanngauthier/)
 
 ## Profile
@@ -8,7 +8,7 @@ Senior backend engineer focused on distributed systems, backend architecture, an
 
 I enjoy working on system-level problems such as performance bottlenecks, data flow design, and operational reliability, with a strong bias toward simplifying complex systems through clear interfaces and well-defined data contracts.
 
-Alongside backend architecture work, I’ve been exploring AI-assisted engineering workflows (Codex, MCP integrations) to improve debugging, observability, and CI triage processes.
+Alongside backend architecture work, I’ve been exploring AI-assisted engineering workflows (Codex, MCP integrations) to improve debugging, observability, and E2E test triage processes.
 
 ## Technical Skills
 - **Languages:** Java, Python3, Go
@@ -21,7 +21,9 @@ Alongside backend architecture work, I’ve been exploring AI-assisted engineeri
 ## Experience
 
 ### Software Engineer — Cisco Systems Ltd
+
 **Reading, UK**
+
 **August 2018 – Present**
 
 #### Webex Calling Devices | 2022 – Present
