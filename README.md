@@ -1,6 +1,6 @@
 # Lauren Gauthier
 **Senior Backend Engineer**
-Reading, United Kingdom  
+Reading, UK
 [laurenwilliamssoftwareengineer@gmail.com](mailto:laurenwilliamssoftwareengineer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/laurenanngauthier/)
 
 ## Profile
@@ -21,7 +21,7 @@ Alongside backend architecture work, I’ve been exploring AI-assisted engineeri
 ## Experience
 
 ### Software Engineer — Cisco Systems Ltd
-**Reading, United Kingdom**  
+**Reading, UK**
 **August 2018 – Present**
 
 #### Webex Calling Devices | 2022 – Present
