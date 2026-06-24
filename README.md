@@ -1,14 +1,14 @@
 # Lauren Gauthier
-**Backend Engineer**  
+**Senior Backend Engineer**
 Reading, United Kingdom  
 [laurenwilliamssoftwareengineer@gmail.com](mailto:laurenwilliamssoftwareengineer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/laurenanngauthier/)
 
 ## Profile
-Senior backend engineer focused on Java microservices, distributed systems, and building scalable features with as little friction as possible.
+Senior backend engineer focused on distributed systems, backend architecture, and scalable microservice design in Java and Python.
 
-I enjoy solving engineering problems pragmatically -- thinking carefully about system design, operational impact, and maintainability while keeping implementation simple and effective.
+I enjoy working on system-level problems such as performance bottlenecks, data flow design, and operational reliability, with a strong bias toward simplifying complex systems through clear interfaces and well-defined data contracts.
 
-Recently, I’ve been investing a lot of time into agentic AI workflows using Codex and MCP servers, exploring how AI tooling can improve development flows such as debugging, test triage, log investigation, and implementation work. I’ve also been experimenting with custom Codex skills and plan mode, staying close to the latest tooling capabilities as the space evolves.
+Alongside backend architecture work, I’ve been exploring AI-assisted engineering workflows (Codex, MCP integrations) to improve debugging, observability, and CI triage processes.
 
 ## Technical Skills
 - **Languages:** Java, Python3, Go
@@ -16,7 +16,7 @@ Recently, I’ve been investing a lot of time into agentic AI workflows using Co
 - **Cloud & Infrastructure:** Kubernetes, Docker, Terraform, AWS
 - **Databases & Messaging:** PostgreSQL, Redis, Kafka
 - **Testing:** JUnit, Pytest, Locust
-- **Tools:** Git, PagerDuty, Jira, Confluence, Opensearch
+- **Tools:** Git, PagerDuty, Jira, Confluence, OpenSearch
 
 ## Experience
 
@@ -26,10 +26,11 @@ Recently, I’ve been investing a lot of time into agentic AI workflows using Co
 
 #### Webex Calling Devices | 2022 – Present
 - Led redesign of a high-traffic device refresh flow, identifying upstream query inefficiencies and high downstream load, then redesigning the system with explicit data contracts, optimised query patterns, and a queue-based asynchronous reconciliation model—improving scalability, reducing service load, and maintaining data correctness under eventual consistency.
-- Owned and modernised an under-maintained microservice, delivering a full architectural overhaul including migration of core processing logic from a Go-based external script into a native Java implementation, alongside simplified synchronous/asynchronous processing flows and improved long-term maintainability.
-- Rebuilt observability and monitoring across the service, introducing dashboards covering both real-time request handling and asynchronous processing completion, improving end-to-end system visibility and operational awareness.
+- Owned and modernised an under-maintained microservice, delivering a full architectural overhaul including migration of core processing logic from a Go-based external script into a native Java implementation, alongside simplified synchronous and asynchronous processing flows and improved long-term maintainability.
+- Re-architected internal processing flows across synchronous and asynchronous execution paths, simplifying system behaviour and improving operational clarity.
+- Rebuilt observability and monitoring across the service, introducing dashboards covering both real-time request handling and asynchronous processing completion states, improving end-to-end system visibility.
 - Built Python-based tooling to simulate device onboarding flows, accelerating development and improving local testing workflows.
-- Drove engineering productivity improvements through AI-assisted workflows, including Codex/MCP-based log triage and Jenkins E2E failure analysis automation.
+- Drove engineering productivity improvements through AI-assisted workflows, including Codex and MCP-based integrations for log analysis, debugging, and E2E test triage automation.
 
 #### Cisco+ Secure Connect | 2020 – 2022
 - Developed, tested, and maintained a cloud-based remote-access solution comprising multiple microservices hosted in Kubernetes.
@@ -45,14 +46,9 @@ Recently, I’ve been investing a lot of time into agentic AI workflows using Co
 - Supported feature development and wrote integration tests for adaptive routing functionality.
 - Contributed to internal tooling and maintained a collection of automated tests.
 
-### Software Engineer Intern — CGI IT UK Limited
-**Leatherhead, United Kingdom**  
-**June 2014 – June 2014**
-- Developed and tested fire-control and command software in Ada for the Royal Artillery.
-
 ## Education
 
 ### BSc Computer Science with Year in Industry
 **Royal Holloway, University of London**  
 **September 2016 – June 2018**
-- Graduated with First Class Honours.
+- First Class Honours
