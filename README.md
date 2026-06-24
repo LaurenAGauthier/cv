@@ -20,9 +20,7 @@ Alongside backend architecture work, I’ve been exploring AI-assisted engineeri
 
 ## Experience
 
-### Software Engineer — Cisco Systems Ltd
-
-**Reading, UK**
+### Software Engineer — Cisco Systems Ltd, Reading
 
 **August 2018 – Present**
 
